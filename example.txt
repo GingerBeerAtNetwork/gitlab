@@ -10,3 +10,4 @@ This is bug fix 2
 
 This is new release 1
 
+This is new release 2
